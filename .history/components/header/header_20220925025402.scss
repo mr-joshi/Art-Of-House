@@ -1,0 +1,33 @@
+.header_container {
+  width: 100%;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: black;
+}
+.header_main {
+  font-size: 20px;
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_main_tags {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.header_login_tags{
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+@media screen and (max-width: 701px)  {
+
+  
+}

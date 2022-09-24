@@ -1,0 +1,16 @@
+.header_container{
+  padding-top: 10px;
+
+}
+.header_main{
+  width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.header_main_tags{
+  width: 40%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

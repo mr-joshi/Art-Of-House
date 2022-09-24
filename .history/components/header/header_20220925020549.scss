@@ -1,0 +1,21 @@
+.header_container {
+  width: 100%;
+  background-color: rebeccapurple;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.header_main {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_main_tags {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
